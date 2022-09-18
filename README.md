@@ -8,6 +8,8 @@ A review of sliders with
 
 - If clicking the right/left buttons, clean previous `setInterval()`.
 
+[Live Demo](https://christy313.github.io/react15-project07)
+
 ![](./public/07-reviews.gif)
 
 Ref: [Gatsby-Airtable Project](https://gatsby-airtable-design-project.netlify.app/)
